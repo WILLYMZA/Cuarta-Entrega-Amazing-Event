@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin: auto;
+}
+body {
+    height: 100%;
+}
+
+.navbar{
+    object-fit: contain;
+    
+}
+section div img {
+    width: 300px;
+    height: 400px;
+}
+.carousel-caption {
+    height: 100px;
+    background-color: rgba(0,0,0,0.6);
+}
+.txtcale{
+    font-size: 20px;
+    color: gold;
+}
+.carruselcontact .carousel-inner {
+    height: 300px;
+}
+.carruselcontact .carousel-item {
+max-width: 100%;
+height: 200px;
+}
+.carruselcontact .carousel-item img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.tablacontact {
+    flex-direction: column;
+    width: 500px;
+    margin: 0 auto;
+}
+.btncontact {
+    text-align: center;
+    width: 100%;
+
+}
+.btnasd {
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+}
+
+.rowdetails {
+    justify-content: center;
+    align-self: center;
+    padding-bottom: 15%;
+}
+
+.imgdetails {
+    border: solid 5px gold;
+    border-radius: 30px;
+}
+
+.card-body-details {
+    border-radius: 30px;
+    border: solid 5px red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tablageneral {
+    width: 100%;
+    height: 700px;
+    padding: 50px;
+}
+
+tbody {
+    border: solid 2px black;
+}
+
+.trtitulo th {
+    font-size: 30px;
+    border-right-style: none;
+}
+tbody th {
+    text-align: center;
+}
+
